@@ -1,0 +1,27 @@
+.control{
+  width: 50%;
+  margin:0 auto;
+  padding: 1.5em 1.5em 24em 1.5em;
+  background-color: #00bdbd;
+
+
+}
+.screen{
+  text-align: center;
+  width:100%;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  background-color: grey;
+}
+button{
+  float: left;
+font-weight: bolder;
+  width: 25%;
+  height:3em;
+  border-width:medium;
+  border-color: #ffdab9;
+text-align: center;
+font-size:150%;
+text-decoration:none;
+
+}
